@@ -41,6 +41,6 @@ if __name__ == '__main__':
 
     result = cardPackets(cardTypes)
     print(result)
-    #fptr.write(str(result) + '\n')
+
 
     
